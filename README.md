@@ -2,3 +2,6 @@ Wheres The Party? App Wheres the Party? Is an app that that finds local concerts
 You can also search any city by typing in the city and selecting one of the genres by radio buttons at the top of the screen. 
 When you press search it will show you all of the concerts in that city by genre. 
 It also displays the date and time the concert will occur, it shows the ticket prices and the address of the venue.
+
+Where the party will make sure to give your night tons of exicentment and pleasure you will not miss the party or knowing the spending prices.
+
